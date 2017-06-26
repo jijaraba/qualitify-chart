@@ -1,0 +1,19 @@
+{
+  "name": "qualitify-chart",
+  "authors": [
+    "José Jaraba <jijaraba@hotmail.com>"
+  ],
+  "description": "",
+  "main": [
+    "dist/qualitify-chart.js",
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
